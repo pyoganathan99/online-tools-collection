@@ -1,29 +1,30 @@
 # A collection of online tools
 
-## carbon
-[carbon.now.sh](https://carbon.now.sh/)  
-For creating coding mockups
+## Designing
 
----
+### [remove bg](https://www.remove.bg/)    
+Automatically remove background from images
 
-## Markdown To PDF
-[markdowntopdf.com](https://www.markdowntopdf.com/)  
-Upload markdown files and convert them to PDF with customized styling
+### [patternpad](https://patternpad.com)  
+Generate cool background patterns
 
----
+### [Tabbied](https://tabbied.com/)  
+Generate minimal geometric patterns
 
-## Marp
-[marp.app](https://marp.app/)  
-Convert markdown to Presentations
-
----
-
-## Photopea
-[www.photopea.com](https://www.photopea.com/)  
+### [Photopea](https://www.photopea.com/)  
 Online alternative to Photoshop
 
----
 
-## remove bg
-[www.remove.bg](https://www.remove.bg/)  
-Automatically remove background from images
+## Coding
+
+### [carbon](https://carbon.now.sh/)  
+For creating coding mockups
+
+
+## General
+
+### [Markdown To PDF](https://www.markdowntopdf.com/)  
+Upload markdown files and convert them to PDF with customized styling
+
+### [Marp](https://marp.app/)
+Convert markdown to Presentations
