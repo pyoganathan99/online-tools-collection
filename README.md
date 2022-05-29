@@ -14,11 +14,19 @@ Generate minimal geometric patterns
 ### [Photopea](https://www.photopea.com/)  
 Online alternative to Photoshop
 
+### [unDraw](https://undraw.co)
+Open source illustrations
+
 
 ## Coding
 
 ### [carbon](https://carbon.now.sh/)  
 For creating coding mockups
+
+## Office
+
+### [Pitch](https://pitch.com/)
+Collaborative presentation maker with cool templates
 
 
 ## General
