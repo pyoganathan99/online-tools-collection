@@ -17,6 +17,9 @@ Online alternative to Photoshop
 ### [unDraw](https://undraw.co)
 Open source illustrations
 
+### [Paletton](https://paletton.com)
+Comprehensive color palette configurator
+
 
 ## Coding
 
