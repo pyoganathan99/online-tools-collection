@@ -20,6 +20,9 @@ Open source illustrations
 ### [Paletton](https://paletton.com)
 Comprehensive color palette configurator
 
+### [Excalidraw](https://excalidraw.com)
+Wireframe/whiteboard tool to create hand-drawn looking diagrams
+
 
 ## Coding
 
