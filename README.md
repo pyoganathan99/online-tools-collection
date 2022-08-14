@@ -29,6 +29,9 @@ Wireframe/whiteboard tool to create hand-drawn looking diagrams
 ### [carbon](https://carbon.now.sh/)  
 For creating coding mockups
 
+### [HexEd.it](https://hexed.it/)
+Fully client side hex editor
+
 ## Office
 
 ### [Pitch](https://pitch.com/)
